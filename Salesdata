@@ -1,0 +1,1 @@
+Analyzed customer spending patterns based on age, gender, state, and occupation; cleaned and transformed the data, then visualized it using Pandas and Seaborn, leveraging the groupby function to analyze different segments.
